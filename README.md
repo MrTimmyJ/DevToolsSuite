@@ -57,8 +57,7 @@ Tools are all client-side for privacy and performance.
 | ----------------- | -------------------------------------------------- |
 | 🐍 HTML/CSS/JS    | Core technologies for UI and interactivity         |
 | 🧩 Canvas / SVG   | Used for drawing tools and graph visualizations    |
-| 📊 Chart.js or D3 | Graph rendering (for Big O, sorting, search, etc.) |
-| 🧭 Vanilla JS SPA | Simple router and module loader                    |
+| 🧭 JavaScript     | Simple router and module loader                    |
 
 🚀 Getting Started
 
